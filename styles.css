@@ -140,6 +140,7 @@ button {
     background-color: #3882F6;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .for-more-text{

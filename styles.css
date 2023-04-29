@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+    padding: 20px 0 20px 50px;
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.links {
+    display: flex;
+    gap: 30px;
+    margin-right: 50px;
+}
